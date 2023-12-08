@@ -71,3 +71,7 @@ group :test do
   gem 'capybara'
   gem 'selenium-webdriver'
 end
+
+gem 'webpacker'
+
+gem 'rack-cors', require: 'rack/cors'
